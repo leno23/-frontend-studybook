@@ -97,3 +97,9 @@ HelloWorld pick
 > 04.11
 
 - #### [357. 统计各位数字都不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/)
+
+> 04.12
+- 806 写字符串需要的行数
+- 剑指 Offer 56 - I. 数组中数字出现的次数
+- 剑指 Offer 56 - II. 数组中数字出现的次数 II
+- 剑指 Offer II 003. 前 n 个数字二进制中 1 的个数
