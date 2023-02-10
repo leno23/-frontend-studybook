@@ -122,6 +122,39 @@ AcWing 1455. 招聘  --约瑟夫环
 >0207
 19 二叉树的下一个节点 --分情况讨论
 1490 最长上升子串  --动态规划
-1056 股票买卖III
-1259. 二叉树遍历
+1056 股票买卖III  --动态规划
+1259. 二叉树遍历  --dfs
 1487. 取硬币 --混合背包
+10. 正则表达式匹配 --review
+
+
+>0208
+Vue3源码课
+1.Vue3目录结构 2.reactivity核心流程 3.runtime-core初始化流程
+4.runtime-core更新流程  5.配置环境 6.实现effect reactive track trigger
+7.实现effect返回runner  8.实现effect.scheduler 9.实现effect.stop
+
+
+
+>0209
+Vue3目录结构 实现effect reactive track trigger 输出文章
+
+
+
+
+>0210
+update resume
+HJ6 质数因子 --分解质因数
+HJ9 提取不重复的整数 --去重
+HJ10 字符个数统计
+
+10.实现readonly 11.实现isReactive isReadonly 12 优化stop功能 13实现reactive readonly对嵌套对象的转化
+14实现shallowReadonly 15实现isProxy 16实现ref  17实现isRef unref 18实现proxyRefs
+19实现computed 20实现初始化component主流程  21使用rollup打包库 22实现初始化element流程
+23实现组件代理对象 24实现shapeFlags 25实现注册事件  26实现组件props逻辑 27实现组件emits
+28实现组件slots  29实现Fragment和Text类型节点  30实现getCurrentInstance 31实现provide inject
+32实现customRenderer 33更新element流程搭建 34更新element的props 35更新element的children
+36双端diff算法1 37双端diff算法2 38双端diff算法3 39学习尤大解决bug的方法 40实现组件更新
+41实现nexttick 42编译模块概述  43实现解析插值功能  44实现解析element标签  45实现解析text功能
+46实现解析三种联合类型 47parse实现 有限状态机  48实现transform  49 实现generate代码功能
+50 实现代码生成插值类型 51实现代码生成三种联合类型  52实现编译template成render函数
