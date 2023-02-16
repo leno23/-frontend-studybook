@@ -156,14 +156,27 @@ HJ50 四则运算  --栈
 1056. 股票买卖 III  --dp 前后缀分解
 股票系列问题 1 2 3 4
 
-
->0213
+>0214
 股票系列问题  输出文章
+
 10.实现readonly 11.实现isReactive isReadonly 12 优化stop功能 13实现reactive readonly对嵌套对象的转化
 14实现shallowReadonly 15实现isProxy 16实现ref  17实现isRef unref 18实现proxyRefs
-19实现computed 20实现初始化component主流程  21使用rollup打包库 22实现初始化element流程
+19实现computed 20实现初始化component主流程  
+
+
+>0215
+21使用rollup打包库 22实现初始化element流程
 23实现组件代理对象 24实现shapeFlags 25实现注册事件  26实现组件props逻辑 27实现组件emits
-28实现组件slots  29实现Fragment和Text类型节点  30实现getCurrentInstance 31实现provide inject
+28实现组件slots  
+
+>0216
+manacher算法 --review
+214. 最短回文串 --manacher算法运用
+525. 连续数组 --前缀和+哈希表
+1124. 表现良好的最长时间段 --前缀和+哈希表
+1250. 检查「好数组」
+
+29实现Fragment和Text类型节点  30实现getCurrentInstance 31实现provide inject
 32实现customRenderer 33更新element流程搭建 34更新element的props 35更新element的children
 36双端diff算法1 37双端diff算法2 38双端diff算法3 39学习尤大解决bug的方法 40实现组件更新
 41实现nexttick 42编译模块概述  43实现解析插值功能  44实现解析element标签  45实现解析text功能
