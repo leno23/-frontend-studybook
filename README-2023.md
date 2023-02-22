@@ -198,6 +198,9 @@ manacher算法 --review
 >0221
 45. 跳跃游戏 VI --动归、单调队列优化
 45. 跳跃游戏 VII --dp
+877. 石子游戏  --dp 记忆化搜素
+1140. 石子游戏 II III IV --记忆化搜素 动态规划
+
 
 34更新element的props 35更新element的children
 36双端diff算法1 37双端diff算法2 38双端diff算法3 39学习尤大解决bug的方法 40实现组件更新
