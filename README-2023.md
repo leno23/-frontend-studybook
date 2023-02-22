@@ -184,17 +184,22 @@ manacher算法 --review
 1631. 最小体力消耗路径 --二分 bfs
 962. 最大宽度坡 --单调栈 review
 42. 接雨水 --单调栈 review
-
+32实现customRenderer 33更新element流程搭建
 
 
 >0220
 1326. 灌溉花园的最少水龙头数目 --贪心,区间覆盖
 1024. 视频拼接   --贪心
-55. 跳跃游戏I II III   --贪心
+55. 跳跃游戏I II   --贪心
 45. 跳跃游戏 III IV   --bfs
 
+45. 跳跃游戏V 单调队列优化 拓扑排序
 
-32实现customRenderer 33更新element流程搭建 34更新element的props 35更新element的children
+>0221
+45. 跳跃游戏 VI --动归、单调队列优化
+45. 跳跃游戏 VII --dp
+
+34更新element的props 35更新element的children
 36双端diff算法1 37双端diff算法2 38双端diff算法3 39学习尤大解决bug的方法 40实现组件更新
 41实现nexttick 42编译模块概述  43实现解析插值功能  44实现解析element标签  45实现解析text功能
 46实现解析三种联合类型 47parse实现 有限状态机  48实现transform  49 实现generate代码功能
